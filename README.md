@@ -1,5 +1,3 @@
-
-
 # 温铁军
 
 正在收录温铁军教授的演讲，节目，访谈等视频记录。
@@ -30,8 +28,6 @@
 | ------------------------------------------------------------ | ----------------- | ---- | ------------------ |
 |                                                              |                   |      |                    |
 
-
-
 ## 2019
 
 | [**告别百年激进**](https://www.bilibili.com/video/BV1qT4y1u7qm) | 人民网公开课 | B站  | :heavy_check_mark: |
@@ -56,19 +52,17 @@
 | ------------------------------------------------------------ | -------- | ---- | ------------------ |
 |                                                              |          |      |                    |
 
-
-
 ## 2013
 
-| [**（1）方法论与八次危机**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂 | 腾讯 | :heavy_check_mark: |
+| [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂 | B站  | :heavy_check_mark: |
 | ------------------------------------------------------------ | ---------- | ---- | ------------------ |
+| [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc   | 超星 | :heavy_check_mark: |
+| [**（1）方法论与八次危机**](https://v.qq.com/x/cover/7zt740avrgy569w/e00128o3qeq.html) | 腾讯微讲堂 | 腾讯 | :heavy_check_mark: |
 | [**（2）工业化与社会结构**](https://v.qq.com/x/cover/7zt740avrgy569w/j00127crnb4.html) | 腾讯微讲堂 | 腾讯 | :heavy_check_mark: |
 | [**（3）1958-1976外资带来的危机**](https://v.qq.com/x/cover/7zt740avrgy569w/a0012kb5wqu.html) | 腾讯微讲堂 | 腾讯 | :heavy_check_mark: |
 | [**（4）改革后第一次经济危机**](https://v.qq.com/x/cover/7zt740avrgy569w/b00125vkuye.html) | 腾讯微讲堂 | 腾讯 | :heavy_check_mark: |
 | [**（5）危机与萧条**](https://v.qq.com/x/cover/7zt740avrgy569w/q0012o2i87t.html) | 腾讯微讲堂 | 腾讯 | :heavy_check_mark: |
 | [**（6）转嫁危机与中国经验**](https://v.qq.com/x/cover/7zt740avrgy569w/z00125w1864.html) | 腾讯微讲堂 | 腾讯 | :heavy_check_mark: |
-| [**生态文明与社会进步（1-5）**](http://mooc1.chaoxing.com/course/85204.html) | 超星Mooc   | 超星 | :heavy_check_mark: |
-| [**中国经济八次危机及其软着陆**](https://www.bilibili.com/video/BV1ox411P7YH) | 世纪大讲堂 | B站  | :heavy_check_mark: |
 
 ## 2011
 
