@@ -4,7 +4,7 @@
 
 正在收录温铁军教授的演讲，节目，访谈等视频记录。
 
-![温铁军](G:\syn_Git\README.assets\wentiejun.png)
+![温铁军](README.assets\wentiejun.png)
 
 # 简介
 
