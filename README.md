@@ -1,32 +1,44 @@
-:loudspeaker: 正在收录温铁军教授的演讲，节目，访谈等视频记录。
+:loudspeaker: 正在收录**温铁军**教授的演讲，节目，访谈等视频记录。
 
 
 
 # :yum:简介
 
-> 温铁军教授是“三农”问题的提出者及中央相关理论政策研究的参与者，是中国农业经济学会副会长，国务院学位委员会第六届农林经济管理学科评议组成员和第七届召集人，长期参与多个国家级智库工作，如国家环境咨询委员会委员、国家粮食安全咨询委员会委员，以及商务部、民政部、国家林业局、北京市、福建省等省部级特聘专家。现任中国人民大学学术委员会副主任，中国人民大学乡村建设中心主任；西南大学中国乡村建设学院执行院长、西南大学乡村振兴战略研究院首席专家，福建农林大学海峡乡村建设学院、新农村发展研究院执行院长；以及国家农业银行、新希望六和集团等大型涉农企业的独立董事。
+> **温铁军**教授是“三农”问题的提出者及中央相关理论政策研究的参与者，是中国农业经济学会副会长，国务院学位委员会第六届农林经济管理学科评议组成员和第七届召集人，长期参与多个国家级智库工作，如国家环境咨询委员会委员、国家粮食安全咨询委员会委员，以及商务部、民政部、国家林业局、北京市、福建省等省部级特聘专家。现任中国人民大学学术委员会副主任，中国人民大学乡村建设中心主任；西南大学中国乡村建设学院执行院长、西南大学乡村振兴战略研究院首席专家，福建农林大学海峡乡村建设学院、新农村发展研究院执行院长；以及国家农业银行、新希望六和集团等大型涉农企业的独立董事。
 >
-> 温教授先后主持多个国家级重大、重点课题，并荣获国务院特殊津贴专家、农业部科技进步一等奖、教育部人文社科成果二等奖、北京市教育教学成果一等奖、绿色中国年度人物奖、CCTV年度经济人物奖等。著有《中国农村基本经济制度研究》、《三农问题的世纪反思》、《解构现代化》、《我们到底要什么》、《解读苏南》、《告别百年激进》、《八次危机》等。
+> **温教授**先后主持多个国家级重大、重点课题，并荣获国务院特殊津贴专家、农业部科技进步一等奖、教育部人文社科成果二等奖、北京市教育教学成果一等奖、绿色中国年度人物奖、CCTV年度经济人物奖等。著有《中国农村基本经济制度研究》、《三农问题的世纪反思》、《解构现代化》、《我们到底要什么》、《解读苏南》、《告别百年激进》、《八次危机》等。
 
 
 
 # :book:专栏
 
-[**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		[**察网-温铁军**](http://www.cwzg.cn/column/wentiejun.html)		[**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
+​				[**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		
+
+​				[**察网-温铁军**](http://www.cwzg.cn/column/wentiejun.html)		
+
+​				[**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
 
 
 
-# :pushpin:主页
+# :star:主页
 
-[**优酷-乡村建设研究**](https://i.youku.com/ruralstudies)		[**官网-乡村建设研究院**](http://www.ruralstudies.com/)		[**B站-国仁乡建	**](https://space.bilibili.com/492753564)	[**B站-乡村建设研究**](https://space.bilibili.com/531452481)		[**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) 
+​				[**优酷-乡村建设研究**](https://i.youku.com/ruralstudies)		
+
+​				[**官网-乡村建设研究院**](http://www.ruralstudies.com/)		
+
+​				[**B站-国仁乡建**](https://space.bilibili.com/492753564)	
+
+​				[**B站-乡村建设研究**](https://space.bilibili.com/531452481)		
+
+​				[**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) 
 
 
 
-# :star:资源列表
+# :pushpin:资源列表
 
-​	:musical_note:	[**听东方**](http://www.tingdongfang.com/)		[**鸿新学习网**](https://www.hhxin.com/)
+​				:musical_note:	[**听东方**](http://www.tingdongfang.com/)		[**鸿新学习网**](https://www.hhxin.com/)
 
-​	:clapper:	[**爱奇艺**](https://www.iqiyi.com/)		[**A站**](https://www.acfun.cn/)		[**B站**](https://www.bilibili.com/)		[**超星**](http://mooc.chaoxing.com/)		[**腾讯**](https://v.qq.com/)		[**优酷**](https://www.youku.com/)
+​				:clapper:	[**爱奇艺**](https://www.iqiyi.com/)		[**A站**](https://www.acfun.cn/)		[**B站**](https://www.bilibili.com/)		[**超星**](http://mooc.chaoxing.com/)		[**腾讯**](https://v.qq.com/)		[**优酷**](https://www.youku.com/)
 
 ------
 
