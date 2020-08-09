@@ -12,35 +12,33 @@
 
 # :book:专栏
 
-​				[**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		
+[**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		
 
-​				[**察网-温铁军**](http://www.cwzg.cn/column/wentiejun.html)		
+[**察网-温铁军**](http://www.cwzg.cn/column/wentiejun.html)		
 
-​				[**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
+[**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
 
 
 
 # :star:主页
 
-​				[**优酷-乡村建设研究**](https://i.youku.com/ruralstudies)		
+[**优酷-乡村建设研究**](https://i.youku.com/ruralstudies)		
 
-​				[**官网-乡村建设研究院**](http://www.ruralstudies.com/)		
+[**官网-乡村建设研究院**](http://www.ruralstudies.com/)		
 
-​				[**B站-国仁乡建**](https://space.bilibili.com/492753564)	
+[**B站-国仁乡建**](https://space.bilibili.com/492753564)	
 
-​				[**B站-乡村建设研究**](https://space.bilibili.com/531452481)		
+[**B站-乡村建设研究**](https://space.bilibili.com/531452481)		
 
-​				[**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) 
+[**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) 
 
 
 
 # :pushpin:资源列表
 
-​				:musical_note:	[**听东方**](http://www.tingdongfang.com/)		[**鸿新学习网**](https://www.hhxin.com/)
+:musical_note:	[**听东方**](http://www.tingdongfang.com/)		[**鸿新学习网**](https://www.hhxin.com/)
 
-​				:clapper:	[**爱奇艺**](https://www.iqiyi.com/)		[**A站**](https://www.acfun.cn/)		[**B站**](https://www.bilibili.com/)		[**超星**](http://mooc.chaoxing.com/)		[**腾讯**](https://v.qq.com/)		[**优酷**](https://www.youku.com/)
-
-------
+:clapper:	[**爱奇艺**](https://www.iqiyi.com/)		[**A站**](https://www.acfun.cn/)		[**B站**](https://www.bilibili.com/)		[**超星**](http://mooc.chaoxing.com/)		[**腾讯**](https://v.qq.com/)		[**优酷**](https://www.youku.com/)
 
 ## :two::zero::two::zero:
 
