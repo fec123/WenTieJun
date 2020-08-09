@@ -12,15 +12,21 @@
 
 
 
-# 网站/主页
+# 专栏
 
-| [**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) | [**官网-乡村建设研究院**](http://www.ruralstudies.com/)  | [**优酷-乡村建设研究**](https://i.youku.com/ruralstudies) |
-| ------------------------------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------- |
-| [**B站-乡村建设研究**](https://space.bilibili.com/531452481) | [**B站-国仁乡建**](https://space.bilibili.com/492753564) |                                                           |
+[**爱思想-温铁军**](http://www.aisixiang.com/thinktank/wentiejun.html)		[**察网-温铁军**](http://www.cwzg.cn/column/wentiejun.html)		[**乌有之乡-温铁军**](http://www.wyzxwk.com/author/c3/130.html)
 
+# 主页
 
+[**优酷-乡村建设研究**](https://i.youku.com/ruralstudies)		[**官网-乡村建设研究院**](http://www.ruralstudies.com/)		[**B站-国仁乡建	**](https://space.bilibili.com/492753564)	[**B站-乡村建设研究**](https://space.bilibili.com/531452481)		[**全球大学-温铁军**](https://our-global-u.org/oguorg/zhs/%e6%b8%a9%e9%93%81%e5%86%9b-2/) 
 
-# 视频列表
+# 资源列表
+
+:musical_note::	[**听东方**](http://www.tingdongfang.com/)		[**鸿新学习网**](https://www.hhxin.com/)
+
+:movie_camera::	[**爱奇艺**](https://www.iqiyi.com/)		[**A站**](https://www.acfun.cn/)		[**B站**](https://www.bilibili.com/)		[**超星**](http://mooc.chaoxing.com/)		[**腾讯**](https://v.qq.com/)		[**优酷**](https://www.youku.com/)
+
+------
 
 ## 2020
 
@@ -33,6 +39,14 @@
 | [**告别百年激进**](https://www.bilibili.com/video/BV1qT4y1u7qm) | 人民网公开课 | B站  | :heavy_check_mark: |
 | ------------------------------------------------------------ | ------------ | ---- | ------------------ |
 |                                                              |              |      |                    |
+
+## 2018
+
+| [**多样化农村发展是未来发展广阔的领域**](https://www.iqiyi.com/v_19rr61xdvw.html) | 舍得智慧讲堂 第二季 | 爱奇艺 | :heavy_check_mark: |
+| ------------------------------------------------------------ | ------------------- | ------ | ------------------ |
+| [**老一辈革命家的经验引导当今乡村建设的进步**](https://www.iqiyi.com/v_19rr6fumtc.html) | 舍得智慧讲堂 第二季 | 爱奇艺 | :heavy_check_mark: |
+
+
 
 ## 2017
 
@@ -69,6 +83,12 @@
 | [**中国的三农问题与三治问题**](https://v.youku.com/v_show/id_XMTI5ODE0Mjc2MA) | 超星Mooc | 优酷 | :heavy_check_mark: |
 | ------------------------------------------------------------ | -------- | ---- | ------------------ |
 |                                                              |          |      |                    |
+
+## 2001
+
+| [**世纪之交的三农问题**](https://v.youku.com/v_show/id_XMzA0NjQ5MTc0OA) | 世纪大讲堂 | 优酷 | :heavy_check_mark: |
+| ------------------------------------------------------------ | ---------- | ---- | ------------------ |
+|                                                              |            |      |                    |
 
 # 年份待定
 
